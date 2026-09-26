@@ -1,7 +1,5 @@
 # 💫 About Me:
-Android Developer | Spring Boot | IoT Enthusiast<br>B.Tech ECE student turning circuits knowledge into code.<br><br>Passionate about building real-world apps and IoT-based systems, from mobile interfaces down to embedded hardware. Comfortable working across the stack — Kotlin/Java for Android, Spring Boot for backend, and hands-on experience with sensors and microcontrollers.<br><br>Currently grinding DSA, SQL & DBMS to crack SDE internships, while staying hands-on with personal projects on the side.<br><br>Always up for a conversation about Android dev, IoT, or backend systems.
-
-
+Android Developer | Spring Boot | IoT Enthusiast<br>B.Tech ECE student turning circuits knowledge into code.<br><br>Passionate about building real-world apps and IoT-based systems, from mobile interfaces down to embedded hardware. Comfortable working across the stack — Kotlin/Java for Android, Spring Boot for backend, and hands-on experience with sensors and microcontrollers.<br><br>Currently grinding DSA, SQL & DBMS to crack SDE internships, while staying hands-on with personal projects on the side.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sarthak-vijay-365251327/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vjsarthak21@gmail.com) 
 
